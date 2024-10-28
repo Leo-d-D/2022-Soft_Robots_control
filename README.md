@@ -31,3 +31,6 @@ tions.
 # Summay
 The poster is a review of the current development in accutation, Grip and Locomotion,
 modeling system, and control algorithm, and the challenges of soft robotics in space. 
+
+# Code
+The matlab codes models the car-like robot control. 
