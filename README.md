@@ -13,16 +13,12 @@ and control systems has reached several milestones in accuracy and prediction wh
 being tested in labs.
 
 Soft robotics is garnering more and more attention due
-to its great potential in a wide variety of fields and disci-
-plines. In particular, they are better suited for use in space
+to its great potential in a wide variety of fields and disciplines. In particular, they are better suited for use in space
 because they are flexible, making them more resilient and
 adaptable to a variety of obstacles. However, the lack of
-air resistance and gravity in space means that any move-
-ment is amplified. As a result of this, precise control is very
-important in space. However, traditional approaches can-
-not be applied to soft robots due to an unlimited range of
-motion, making control a bottleneck in current applica-
-tions.
+air resistance and gravity in space means that any movement is amplified. As a result of this, precise control is very
+important in space. However, traditional approaches cannot be applied to soft robots due to an unlimited range of
+motion, making control a bottleneck in current applications.
 
 # Summay
 The poster is a review of the current development in actuation, grip and locomotion,
